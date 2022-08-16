@@ -28,4 +28,4 @@ for(let i = 0 ; i <A.length ; i++) {
 }
 
 //final formula
-console.log(max-count);
+console.log((A.length)-count);
